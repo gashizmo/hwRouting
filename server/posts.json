@@ -1,0 +1,57 @@
+[
+  {
+    "id": 3,
+    "title": "updated title",
+    "content": "updated content"
+  },
+  {
+    "id": 4,
+    "title": "updated title",
+    "content": "updated content"
+  },
+  {
+    "id": 5,
+    "title": "updated title",
+    "content": "updated content"
+  },
+  {
+    "id": 6,
+    "title": "Пост номер 6",
+    "content": "Это содержимое поста номер 6. Здесь мог быть ваш текст."
+  },
+  {
+    "id": 7,
+    "title": "Пост номер 7",
+    "content": "Это содержимое поста номер 7. Здесь мог быть ваш текст."
+  },
+  {
+    "id": 8,
+    "title": "Пост номер 8",
+    "content": "Это содержимое поста номер 8. Здесь мог быть ваш текст."
+  },
+  {
+    "id": 9,
+    "title": "Пост номер 9",
+    "content": "Это содержимое поста номер 9. Здесь мог быть ваш текст."
+  },
+  {
+    "id": 10,
+    "title": "Пост номер 10",
+    "content": "Это содержимое поста номер 10. Здесь мог быть ваш текст."
+  },
+  {
+    "id": 11,
+    "title": "New post",
+    "content": "content"
+  },
+  {
+    "id": 12,
+    "title": "New post",
+    "content": "content"
+  },
+  {
+    "id": 13,
+    "title": "New post",
+    "content": "content"
+  }
+]
